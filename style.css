@@ -39,3 +39,9 @@ span.main{
     height: 45px;
     width: 100px;
 }
+#restart{
+    text-decoration: none;
+    height: 45px;
+    width: 100px;
+    margin-left: 350px;
+}
