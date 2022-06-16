@@ -45,3 +45,7 @@ span.main{
     width: 100px;
     margin-left: 350px;
 }
+a:link{
+    text-decoration: none;
+
+}
