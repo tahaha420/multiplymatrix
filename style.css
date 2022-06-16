@@ -1,0 +1,41 @@
+h1{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sem{
+    margin-top: 50px;
+}
+#first,#second{
+    height: 40px;
+    width: 100px;
+
+}
+span.order{
+    display: flex;
+    margin-right: 500px;
+    justify-content: left;
+    
+}
+#start{
+    height: 45px;
+    width: 100px;
+}
+#first-matrix,#second-matrix,#third-matrix{
+    height: 110px;
+    width: 250px;
+    border:1px solid black 
+}
+span.main{
+    display: flex;
+    margin: auto;
+}
+.input1{
+    width: 40px;
+}
+
+#mult{
+    margin-left: 350px;
+    margin-top: 40px;
+    height: 45px;
+    width: 100px;
+}
